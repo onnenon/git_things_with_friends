@@ -1,6 +1,5 @@
 # Learning Git With Friends
 
-
-# hi i made a change guys.
+## What are we really trying to do here?
 
 ### My first contribution!
